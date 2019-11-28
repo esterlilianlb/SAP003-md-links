@@ -1,0 +1,28 @@
+{
+  "name": "md-links",
+  "version": "1.0.0",
+  "description": "projeto mdlinks",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^24.9.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.7.1"
+  },
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esterlilianlb/SAP003-md-links.git"
+  },
+  "bin": {
+    "md-links": "index.js"
+  },
+  "author": "Ester",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/esterlilianlb/SAP003-md-links/issues"
+  },
+  "homepage": "https://github.com/esterlilianlb/SAP003-md-links#readme"
+}
