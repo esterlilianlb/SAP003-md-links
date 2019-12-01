@@ -2,12 +2,23 @@
   "name": "md-links",
   "version": "1.0.0",
   "description": "projeto mdlinks",
-  "main": "index.js",
+  "main": "lib/index.js",
   "dependencies": {
     "jest": "^24.9.0"
   },
   "devDependencies": {
-    "eslint": "^6.7.1"
+    "eslint": "^6.7.1",
+    "@babel/core": "^7.2.2",
+    "@babel/plugin-transform-modules-commonjs": "^7.2.0",
+    "babel-core": "^7.0.0-bridge.0",
+    "babel-jest": "^24.8.0",
+    "eslint-config-airbnb-base": "^13.2.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-jest": "^22.1.2",
+    "jest": "^24.9.0",
+    "regenerator-runtime": "^0.13.1",
+    "stylelint": "^10.1.0",
+    "stylelint-config-recommended": "^2.2.0"
   },
   "scripts": {
     "test": "jest --coverage"
@@ -17,7 +28,7 @@
     "url": "git+https://github.com/esterlilianlb/SAP003-md-links.git"
   },
   "bin": {
-    "md-links": "index.js"
+    "md-links": "cli.js"
   },
   "author": "Ester",
   "license": "ISC",
