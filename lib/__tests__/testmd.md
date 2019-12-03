@@ -1,0 +1,5 @@
+Esse é um arquivo de teste para verificar se as funções funcionam corretamente, retornando um array com objetos contendo o texto e link dentro deste arquivo markdown.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam egestas massa vitae nulla sollicitudin, vitae consectetur elit semper. Pellentesque feugiat at mi non maximus. Mauris fermentum ac elit nec hendrerit. Nam elementum nisi eleifend nisi commodo vehicula. Suspendisse lacinia, lectus sed suscipit pulvinar, ante nunc condimentum metus, sed egestas odio lorem non erat. [Regex](https://regex101.com/) Cras consectetur dictum dui eu ornare. Cras eu iaculis dui, vitae blandit magna. Ut laoreet nisl nulla, vel lacinia mi euismod posuere. Aenean a ipsum nibh. Suspendisse eget aliquet mauris.
+
+Cras vitae vestibulum velit, eget congue justo [Google](https://google.com/). Proin ac iaculis tellus. Proin sed posuere lectus. Proin mollis, diam vitae pellentesque sollicitudin, neque felis eleifend lacus, sit amet blandit metus lectus vitae nulla. Etiam semper urna est, at bibendum velit venenatis nec. Nam non neque mi. Quisque semper in ipsum id cursus.
